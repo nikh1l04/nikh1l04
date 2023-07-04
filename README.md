@@ -1,6 +1,6 @@
 Hi there 👋
 I am Nikhil. I'm a newbie Python Developer mainly working on full-stack development using Django and HTML/CSS.
-I also have significant experience in Data Analytics using Excel , SQL, Hadoop/ Spark, and Python ML Libraries like Numpy/Pandas, Tensorflow, and Deep Learning. 
+I also have significant experience in Data Analytics using Excel, SQL, Hadoop/ Spark, and Python ML Libraries like Numpy/Pandas, Tensorflow, and Deep Learning. 
 
 I like to work out things with the knowledge that I've gained through self-learning as well as my internship experience in software development here. 
 And I am working towards becoming a better coder and a Data Scientist who can indefinitely contribute to business decisions and operations. 
