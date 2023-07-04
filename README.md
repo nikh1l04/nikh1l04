@@ -5,11 +5,10 @@ I also have significant experience in Data Analytics using Excel, SQL, Hadoop/ S
 I like to work out things with the knowledge that I've gained through self-learning as well as my internship experience in software development here. 
 And I am working towards becoming a better coder and a Data Scientist who can indefinitely contribute to business decisions and operations. 
 
-🔗 Know more about me: 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/n.i.k.h.1l/)
+🔗 Connect with me through my socials! :
 
-📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhiljycn@gmail.com)](mailto:nikhiljycn@gmail.com) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yourusername/)](https://www.instagram.com/n.i.k.h.1l/) <br>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikhiljycn@gmail.com)](mailto:nikhiljycn@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/nikhil-jayachandran-aa172a1b8/)
 
 <!---
