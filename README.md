@@ -1,9 +1,11 @@
 Hi there 👋
-I am Nikhil. I'm a newbie Python Developer mainly working on full-stack development using Django and HTML/CSS.
+I am Nikhil. I'm a Machine Learning Engineer/ Data Enthusiast aspiring to become a Data Scientist providing valuable insights for making the right decisions. 
+In this age, where data holds so much value and is of utmost importance, every byte of data must be made use of for our next steps. Being in the industry keeps you hungry for the same, processing and insight inference are a complete changer for being the market leaders in any industry. 
+The need for Data crunchers is thus essential in today's age, and I am looking forward to becoming one with the right set of tools and knowledge in my arsenal. 
 I also have significant experience in Data Analytics using Excel, SQL, Hadoop/ Spark, and Python ML Libraries like Numpy/Pandas, Tensorflow, and Deep Learning. 
 
-I like to work out things with the knowledge that I've gained through self-learning as well as my internship experience in software development here. 
-And I am working towards becoming a better coder and a Data Scientist who can indefinitely contribute to business decisions and operations. 
+I like to work out things with the knowledge that I've gained through self-learning and my knowledge working as an AI/Full Stack Engineer. 
+I am working towards becoming a better coder and a Data Scientist who can indefinitely contribute to business decisions and operations. 
 
 🔗 Connect with me through my socials! :
 
